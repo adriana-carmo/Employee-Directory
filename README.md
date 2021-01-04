@@ -54,6 +54,6 @@ For more questions about Team Profile Generator you can go to my Github page at 
 
 
   - [GitHub Profile](https://github.com/adriana-carmo)
-  - [GitHub Budget_Control Repo](https://github.com/adriana-carmo/Employee-Directory) 
+  - [GitHub Employee-Directory Repo](https://github.com/adriana-carmo/Employee-Directory) 
 
 For additional questions please reach out to my e-mail at : dri.abedala@gmail.com
