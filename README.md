@@ -37,10 +37,12 @@ npm start
 
 ### Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### <a name="deploy"></a>Deploy Heroku
+https://employees-list-react.herokuapp.com
 
-### <a name="deploy">Deploy in Heroku
+`Application run in the Heroku`
+![Home](public/homepage.png)
 
-ewrwer 
 ### Installation
 npx create-react-app employee-directory
 npm instal
@@ -50,6 +52,8 @@ npm install react-bootstrap bootstrap
 
 For more questions about Team Profile Generator you can go to my Github page at the follow link:
 
-GitHub Profile
-GitHub Budget_Control Repo
+
+  - [GitHub Profile](https://github.com/adriana-carmo)
+  - [GitHub Budget_Control Repo](https://github.com/adriana-carmo/Employee-Directory) 
+
 For additional questions please reach out to my e-mail at : dri.abedala@gmail.com
